@@ -1,0 +1,48 @@
+$bg-main: #ffffff;
+$bg-sec: #fbfaf8;
+$bg-perehod: linear-gradient(to right, #211b19, #4e3427);//background-image
+$bg-before-foot: #191919;
+$bg-foot: #111111;
+$bg-main: #ffffff;
+
+$color-text: #ffffff;
+$color-h: #555555;
+$color-hov: #c7b299;
+$color-btn-bg: #998675;
+$color-main-text: #8c8c8c;
+$color-dop-el: #d1d1d1;
+$color-date: #363636;
+$color-spec-link: #01b7e9;
+
+$bor-rad: 5px;
+$border: solid 1px rgba(0, 0, 0, 0.15);
+
+$fz-h1: 52px;
+$fz-h2: 36px;
+$fz-h3: 30px;
+$fz-h4: 22px;
+$fz-h5: 20px;
+$fz-dop: 16px;
+$fz-text: 14px;
+
+$bx-sh-prm: inset 0px 1px 0 0 rgba(255, 255, 255, 0.25);
+$bx-sh-sec: 0px 1px 0 0 rgba(0, 0, 0, 0.14),
+  inset 0px 1px 0 0 rgba(255, 255, 255, 0.04);
+
+$transition: all 0.4s ease;
+
+$xs: (
+  min-width: 322px
+);
+$sm: (
+  min-width: 576px
+);
+$md: (
+  min-width: 768px
+);
+$lg: (
+  min-width: 992px
+);
+$xl: (
+  min-width: 1200px
+);
